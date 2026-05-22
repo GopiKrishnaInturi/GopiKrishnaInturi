@@ -1,31 +1,28 @@
 <div align="center">
 
-# ⚡ INTURI GOPI KRISHNA ⚡
-
-### 🚀 Data Engineer • Distributed Systems Engineer • Cloud & Analytics Architect
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=Building+Scalable+Data+Platforms;Designing+Real-Time+ETL+Pipelines;Cloud+Native+Data+Engineering;Distributed+Systems+%26+Backend+Architecture;AWS+%7C+Python+%7C+SQL+%7C+Docker;High-Performance+Analytics+Engineering" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B0F19,25:111827,50:1E293B,75:0F172A,100:020617&text=INTURI%20GOPI%20KRISHNA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineering%20%7C%20Cloud%20Architecture%20%7C%20Distributed%20Systems&descAlignY=58"/>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=header&text=DATA%20ENGINEERING%20PORTFOLIO&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=true&width=1100&height=120&lines=Designing+Scalable+Data+Platforms;Engineering+Real-Time+ETL+Pipelines;Cloud+Native+Analytics+Infrastructure;Distributed+Systems+%26+Backend+Engineering;High+Performance+Data+Processing+Architectures" />
+
+<br><br>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Data%20Engineering-00C2FF?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud%20Infrastructure-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Distributed%20Systems-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend%20Architecture-0F766E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Analytics%20Engineering-DC2626?style=for-the-badge"/>
+</p>
 
 <br>
 
-![](https://img.shields.io/badge/Data-Engineering-00C2FF?style=for-the-badge&logo=databricks&logoColor=white)
-![](https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
-![](https://img.shields.io/badge/Distributed-Systems-6A5ACD?style=for-the-badge)
-![](https://img.shields.io/badge/ETL-Pipelines-228B22?style=for-the-badge)
-![](https://img.shields.io/badge/Analytics-Engineering-DC143C?style=for-the-badge)
-![](https://img.shields.io/badge/Backend-Architecture-black?style=for-the-badge)
+<img src="https://github-profile-trophy.vercel.app/?username=GopiKrishnaInturi&theme=algolia&margin-w=15&margin-h=15&no-frame=true&row=1&column=7"/>
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=GopiKrishnaInturi&theme=algolia&no-frame=true&row=1&column=7"/>
-
-<br>
-
-![](https://komarev.com/ghpvc/?username=GopiKrishnaInturi&style=for-the-badge&color=blueviolet)
+<img src="https://komarev.com/ghpvc/?username=GopiKrishnaInturi&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
@@ -33,130 +30,138 @@
 
 # 🧠 ENGINEERING PROFILE
 
-```yaml
-Name: Inturi Gopi Krishna
-Role: Data Engineer
-Specialization:
-  - Real-Time ETL Engineering
-  - Distributed Systems
-  - Cloud-Native Backend Platforms
-  - Large Scale Data Processing
-  - Analytics Infrastructure
-  - Pipeline Optimization
-
-Current Focus:
-  - High Throughput Data Platforms
-  - Real-Time Event Processing
-  - Scalable Cloud Infrastructure
-  - Fault-Tolerant Distributed Systems
-  - Backend Reliability Engineering
-````
-
----
-
-# ⚡ ABOUT ME
-
-I am a Computer Information Science graduate student at Rivier University with strong expertise in building scalable data engineering ecosystems, distributed processing platforms, cloud-native ETL architectures, and high-performance backend analytics systems.
-
-My primary engineering interests revolve around:
-
-* ⚙️ Real-Time Data Engineering
-* ☁️ Cloud Infrastructure & AWS
-* 🔄 Distributed Systems & Concurrency
-* 📊 Analytics Pipeline Engineering
-* 🚀 Backend Performance Optimization
-* 🧠 Scalable System Architecture
-* 📦 Containerized Data Platforms
-* 🔍 Operational Intelligence & Monitoring
-
-I enjoy designing backend ecosystems capable of processing millions of transactional, analytical, and operational records efficiently while maintaining reliability, scalability, observability, and fault tolerance.
-
----
-
-# ⚒️ CORE TECHNOLOGIES
-
 <div align="center">
 
-## 💻 LANGUAGES
-
-![](https://skillicons.dev/icons?i=python,java,mysql,php)
-
-<br><br>
-
-## ☁️ CLOUD & DEVOPS
-
-![](https://skillicons.dev/icons?i=aws,docker,linux,git,github)
-
-<br><br>
-
-## 🗄️ DATABASES & STORAGE
-
-![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge\&logo=amazons3\&logoColor=white)
-
-<br><br>
-
-## ⚡ DATA ENGINEERING
-
-![](https://img.shields.io/badge/ETL-Pipelines-00BFFF?style=for-the-badge)
-![](https://img.shields.io/badge/Data-Warehousing-8A2BE2?style=for-the-badge)
-![](https://img.shields.io/badge/Batch-Processing-DC143C?style=for-the-badge)
-![](https://img.shields.io/badge/Distributed-Systems-228B22?style=for-the-badge)
-![](https://img.shields.io/badge/Concurrent-Processing-FF8C00?style=for-the-badge)
-![](https://img.shields.io/badge/Real_Time-Analytics-6A5ACD?style=for-the-badge)
+| Domain | Expertise |
+|---|---|
+| ⚡ Data Engineering | ETL Pipelines • Batch Processing • Data Warehousing |
+| ☁️ Cloud Engineering | AWS EC2 • AWS S3 • Distributed Infrastructure |
+| 🚀 Backend Engineering | REST APIs • Scalable Architectures • Concurrent Processing |
+| 📊 Analytics Systems | Operational Intelligence • Reporting Automation |
+| 🔄 Distributed Systems | Fault Tolerance • Synchronization • Replication |
 
 </div>
 
 ---
 
-# 🏗️ ENGINEERING EXPERIENCE
+# 🚀 ABOUT ME
+
+I am a Computer Information Science graduate student at **Rivier University** with strong expertise in architecting scalable data engineering ecosystems, distributed backend systems, cloud-native analytics platforms, and high-throughput ETL infrastructures.
+
+My engineering interests primarily focus on:
+
+```yaml
+Specializations:
+  - Real-Time Data Engineering
+  - Cloud Native ETL Architectures
+  - Distributed Backend Systems
+  - Scalable Data Processing
+  - Analytics Infrastructure
+  - Operational Intelligence Platforms
+  - Backend Reliability Engineering
+  - High Performance SQL Optimization
+````
+
+I enjoy building production-grade systems capable of processing millions of operational and analytical records efficiently while maintaining scalability, observability, reliability, and performance optimization.
 
 ---
 
-## 🚀 Data Engineer | EVRY India Pvt Limited
+# ⚙️ TECHNOLOGY STACK
+
+<div align="center">
+
+# 💻 LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=python,java,mysql,php"/>
+
+<br><br>
+
+# ☁️ CLOUD • DEVOPS • INFRASTRUCTURE
+
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github"/>
+
+<br><br>
+
+# 🗄️ DATABASES • STORAGE
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+
+<br><br>
+
+# ⚡ DATA ENGINEERING
+
+<img src="https://img.shields.io/badge/ETL%20Pipelines-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Warehousing-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Batch%20Processing-DC2626?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Distributed%20Systems-059669?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Concurrent%20Processing-F97316?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Real%20Time%20Analytics-2563EB?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🏢 PROFESSIONAL EXPERIENCE
+
+---
+
+## 📊 DATA ENGINEER — EVRY INDIA PVT LIMITED
 
 📍 Bangalore, India
 📅 Aug 2022 — Jul 2024
 
-### ⚡ Key Engineering Contributions
+### 🔥 ENGINEERING HIGHLIGHTS
 
-* Architected scalable ETL pipelines processing over **1.6+ million enterprise transactional records** across analytics and operational reporting environments.
+```diff
++ Processed 1.6+ Million Enterprise Records
++ Built High Throughput ETL Pipelines
++ Optimized SQL Workloads & Reporting Systems
++ Automated Validation & Reconciliation Engines
+```
 
-* Engineered optimized SQL transformation and aggregation workflows reducing reporting execution latency from **21 minutes → under 7 minutes**.
+* Architected scalable ETL workflows processing enterprise-scale transactional and operational datasets across reporting ecosystems.
 
-* Built automated reconciliation and validation engines detecting:
+* Optimized SQL aggregation and transformation workloads reducing reporting latency from **21 minutes → under 7 minutes**.
 
-  * duplicate transactions
-  * schema inconsistencies
+* Built automated reconciliation frameworks detecting:
+
+  * duplicate records
   * ingestion anomalies
-  * reporting failures
+  * schema inconsistencies
+  * validation failures
 
-* Designed AWS S3 ingestion and archival strategies supporting centralized enterprise-scale dataset management.
+* Integrated AWS S3 archival and ingestion strategies supporting scalable centralized dataset management.
 
-* Automated recurring operational reporting workflows reducing manual overhead by nearly **14+ hours weekly**.
+* Improved operational efficiency by automating recurring reporting workflows reducing manual effort significantly.
 
-* Collaborated across analytics, backend, and operations teams to stabilize production ETL workflows and improve pipeline reliability.
+* Collaborated across analytics, backend, and operations teams to stabilize production data pipelines and backend workflows.
 
 ---
 
-## ⚙️ Software Engineer Intern | Inautix Technologies India Pvt Ltd
+## 💻 SOFTWARE ENGINEER INTERN — INAUTIX TECHNOLOGIES INDIA PVT LTD
 
 📍 Chennai, India
 📅 Aug 2021 — Jul 2022
 
-### ⚡ Engineering Contributions
+### 🔥 ENGINEERING HIGHLIGHTS
 
-* Built backend preprocessing utilities for operational and financial datasets using Python and SQL.
+```diff
++ Backend Processing Utilities
++ REST API Synchronization
++ SQL Performance Optimization
++ Production Workflow Support
+```
 
-* Developed automated CSV transformation and cleansing workflows improving reporting quality and consistency.
+* Built backend data preprocessing and transformation utilities using Python and SQL.
 
-* Assisted in REST API synchronization and backend integration workflows across enterprise internal systems.
+* Developed automated cleansing pipelines improving reporting consistency and operational reliability.
 
-* Optimized indexing and SQL execution strategies improving reporting query response performance significantly.
+* Assisted in REST API synchronization and backend integration workflows across enterprise internal platforms.
 
-* Supported backend deployment cycles, production validation activities, and debugging for distributed processing workflows.
+* Optimized indexing and reporting query execution strategies improving operational analytics performance.
 
 ---
 
@@ -164,105 +169,109 @@ I enjoy designing backend ecosystems capable of processing millions of transacti
 
 ---
 
-# 🚚 Real-Time Shipment Tracking Analytics Platform
+# 🚚 REAL-TIME SHIPMENT TRACKING ANALYTICS PLATFORM
 
 ### ⚙️ Python • AWS EC2 • SQL • Docker • REST APIs
 
-```diff
-+ Processed 2.8+ Million Logistics Events
-+ Real-Time Distributed Event Ingestion
-+ Fault-Tolerant Backend Architecture
-+ Multithreaded Event Processing
-```
+<div align="center">
 
-### 🔥 Highlights
+| Scale        | Architecture | Processing |
+| ------------ | ------------ | ---------- |
+| 2.8M+ Events | Distributed  | Real-Time  |
 
-* Engineered asynchronous ingestion pipelines for logistics event streams, warehouse updates, routing scans, and shipment notifications.
+</div>
 
-* Built multithreaded backend workers enabling concurrent processing of distributed operational events.
+### 🔥 PROJECT HIGHLIGHTS
 
-* Reduced analytics dashboard latency from **18 minutes → under 5 minutes** through SQL partition optimization and indexed reporting structures.
+* Built asynchronous ingestion pipelines for logistics events, routing scans, delivery tracking, and warehouse operations.
 
-* Implemented retry handling, ingestion monitoring, duplicate detection, and failure recovery workflows improving ingestion reliability.
+* Developed multithreaded backend workers supporting concurrent distributed event processing.
+
+* Reduced analytics dashboard latency from **18 minutes → under 5 minutes** through indexed reporting optimization.
+
+* Implemented retry handling, duplicate validation, ingestion monitoring, and recovery workflows improving system reliability.
 
 ---
 
-# ☁️ Cloud Infrastructure Log Intelligence System
+# ☁️ CLOUD INFRASTRUCTURE LOG INTELLIGENCE SYSTEM
 
 ### ⚙️ Python • MySQL • Docker • AWS • Linux
 
-```diff
-+ 1 Million+ Infrastructure Logs Daily
-+ Distributed Log Processing
-+ Operational Monitoring Platform
-+ Automated Fault Detection
-```
+<div align="center">
 
-### 🔥 Highlights
+| Daily Volume | Monitoring | Intelligence |
+| ------------ | ---------- | ------------ |
+| 1M+ Logs     | Automated  | Operational  |
 
-* Built centralized cloud-native infrastructure log analytics platform capable of processing nearly **1M+ logs/day**.
+</div>
 
-* Designed parsing engines for:
+### 🔥 PROJECT HIGHLIGHTS
 
-  * timeout detection
+* Designed centralized infrastructure analytics platform processing millions of server and application logs daily.
+
+* Built parsing and transformation engines for:
+
+  * timeout analysis
   * authentication anomalies
-  * failed request analysis
-  * crash monitoring
+  * failed request detection
+  * operational monitoring
 
-* Implemented indexed analytics structures improving monitoring query performance by nearly **49%**.
+* Implemented indexed analytics structures improving monitoring query performance significantly.
 
-* Integrated automated alerting and recovery workflows improving operational visibility and incident response efficiency.
+* Integrated automated alerting and recovery mechanisms improving operational visibility.
 
 ---
 
-# 📊 Large-Scale Customer Retention Analytics Pipeline
+# 📈 LARGE-SCALE CUSTOMER RETENTION ANALYTICS PIPELINE
 
 ### ⚙️ Python • Pandas • SQL • AWS S3 • NumPy
 
-```diff
-+ 2.3+ Million Customer Records
-+ Churn Analytics Pipeline
-+ Memory Optimized Processing
-+ Scalable AWS Storage Architecture
-```
+<div align="center">
 
-### 🔥 Highlights
+| Dataset Size  | Processing  | Optimization     |
+| ------------- | ----------- | ---------------- |
+| 2.3M+ Records | Distributed | Memory Efficient |
 
-* Developed scalable analytics pipeline processing millions of transactional and engagement records for behavioral segmentation and churn analysis.
+</div>
 
-* Engineered preprocessing workflows for:
+### 🔥 PROJECT HIGHLIGHTS
+
+* Developed large-scale analytics workflows supporting churn analysis and customer segmentation.
+
+* Engineered preprocessing pipelines for:
 
   * normalization
-  * missing-value handling
   * transformation batching
+  * incomplete transaction handling
   * analytical enrichment
 
-* Reduced preprocessing runtime from **110 minutes → under 47 minutes** through memory-efficient transformation strategies.
+* Reduced preprocessing runtime from **110 minutes → under 47 minutes** using optimized transformation strategies.
 
 ---
 
-# 🔄 Distributed Financial Transaction Synchronization Engine
+# 🔄 DISTRIBUTED FINANCIAL TRANSACTION SYNCHRONIZATION ENGINE
 
 ### ⚙️ Java • MySQL • Docker • AWS EC2
 
-```diff
-+ Distributed Replication Engine
-+ Concurrent Synchronization
-+ Thread-Safe Recovery Logic
-+ High Throughput Processing
-```
+<div align="center">
 
-### 🔥 Highlights
+| Architecture | Synchronization | Reliability    |
+| ------------ | --------------- | -------------- |
+| Distributed  | Concurrent      | Fault-Tolerant |
 
-* Built distributed synchronization platform supporting concurrent replication of financial transaction records across backend nodes.
+</div>
 
-* Developed thread-safe retry and conflict recovery workflows improving synchronization consistency during parallel execution.
+### 🔥 PROJECT HIGHLIGHTS
 
-* Optimized indexing and transactional commit handling increasing replication throughput significantly under concurrent workloads.
+* Built distributed synchronization engine supporting concurrent transactional replication across backend environments.
+
+* Implemented thread-safe recovery and retry workflows improving consistency during parallel execution.
+
+* Optimized indexing and transactional handling increasing synchronization throughput significantly.
 
 ---
 
-# 📈 GITHUB ANALYTICS
+# 📊 GITHUB ANALYTICS
 
 <div align="center">
 
@@ -270,28 +279,34 @@ I enjoy designing backend ecosystems capable of processing millions of transacti
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GopiKrishnaInturi&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<br>
+<br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=GopiKrishnaInturi&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GopiKrishnaInturi&theme=react-dark&hide_border=true&area=true"/>
 
 </div>
 
 ---
 
-# 📡 ENGINEERING INTERESTS
+# 🌍 ENGINEERING DOMAINS
 
 <div align="center">
 
-| Domain                 | Focus                        |
-| ---------------------- | ---------------------------- |
-| ⚙️ Data Engineering    | ETL, Warehousing, Processing |
-| ☁️ Cloud Engineering   | AWS Infrastructure           |
-| 🔄 Distributed Systems | Concurrent Processing        |
-| 📊 Analytics           | Operational Intelligence     |
-| 🚀 Backend Systems     | Scalable Architectures       |
-| 📦 DevOps              | Dockerized Platforms         |
-| 🔍 Observability       | Monitoring & Reliability     |
-| 🧠 Optimization        | High Throughput Systems      |
+```mermaid
+mindmap
+  root((Data Engineering))
+    Cloud Infrastructure
+    Distributed Systems
+    ETL Pipelines
+    Backend Engineering
+    Real-Time Analytics
+    SQL Optimization
+    Operational Intelligence
+    Scalable Architectures
+```
 
 </div>
 
@@ -301,11 +316,17 @@ I enjoy designing backend ecosystems capable of processing millions of transacti
 
 <div align="center">
 
-[![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/gopi-krishna-inturi-6921aa2a6/)
+<a href="https://www.linkedin.com/in/gopi-krishna-inturi-6921aa2a6/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/GopiKrishnaInturi)
+<a href="https://github.com/GopiKrishnaInturi">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-[![](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:gopikrishnainturi9@gmail.com)
+<a href="mailto:gopikrishnainturi9@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -313,9 +334,9 @@ I enjoy designing backend ecosystems capable of processing millions of transacti
 
 <div align="center">
 
-# ⚡ ENGINEERING SCALABLE DATA PLATFORMS FOR REAL-WORLD ANALYTICS ⚡
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:020617,25:0F172A,50:1E293B,75:111827,100:0B0F19&section=footer"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+### Engineering Scalable Data Platforms • Cloud Native Analytics • Distributed Intelligence Systems
 
 </div>
 ```
